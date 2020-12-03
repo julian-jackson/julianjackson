@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Nunito&display=swap');
+
+.navbox {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.nav-option { 
+    margin: 10px;
+    padding: 10px;
+    transition: 1s;
+}
+
+.option:hover {
+    background-color: lightslategray;
+    border-radius: 50px;
+    transition: 1s;
+}
+
+.link {
+    font-family: 'Nunito', sans-serif;
+
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
+

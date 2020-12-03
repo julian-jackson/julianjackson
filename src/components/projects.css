@@ -1,0 +1,49 @@
+.standard-bg {
+    background-color: white;
+}
+
+.black-header {
+    color: black;
+    font-size: 3rem;
+    padding: 10px;
+}
+
+.black-header {
+    color: black;
+    font-size: 3rem;
+    padding: 10px;
+    font-family: 'Nerko One', cursive;
+
+}
+
+.black-subheader {
+    color: black;
+    font-size: 1.5rem;
+    padding: 10px;
+    font-family: 'Nerko One', cursive;
+
+}
+
+.black-text {
+    color: black;
+    font-size: 1rem;
+    padding: 5px;
+    font-family: 'Nunito', sans-serif;
+
+    
+}
+
+.tri-flex {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.preview-image {
+    width: 256;
+    height: 128;
+}
+
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
